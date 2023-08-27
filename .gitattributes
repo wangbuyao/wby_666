@@ -1,0 +1,8 @@
+schools.py filter=lfs diff=lfs merge=lfs -text
+前百高校排名.xlsx filter=lfs diff=lfs merge=lfs -text
+build filter=lfs diff=lfs merge=lfs -text
+dist filter=lfs diff=lfs merge=lfs -text
+main.py filter=lfs diff=lfs merge=lfs -text
+resume_scanner.py filter=lfs diff=lfs merge=lfs -text
+resume_scanner.spec filter=lfs diff=lfs merge=lfs -text
+resume_scanner.exe filter=lfs diff=lfs merge=lfs -text
